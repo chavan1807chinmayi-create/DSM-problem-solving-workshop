@@ -1,0 +1,22 @@
+# val1 = int(input("Enter value of val1: "))#100
+# val2 = int(input("Enter value of val2: "))#200
+# print("Value of val1 before swapping: ", val1, "Value of val2 before swapping: ", val2)
+# temp = val1 #100
+# val1 = val2 #200
+# val2 = temp #100
+# print("Value of val1 after swapping: ", val1)
+# print("Value of val2 after swapping: ", val2)
+
+
+#using 2 variables / without using 3rd variable
+# a = int(input("Enter value of a: "))#100
+# b = int(input("Enter value of b: "))#200
+# print("Value of a before swapping: ", a, "Value of b before swapping: ", b)
+# a, b = b, a
+# print("Value of a after swapping: ", a)
+# print("Value of b after swapping: ", b)
+
+# a = a+b
+# b = a-b
+# a = a-b
+
