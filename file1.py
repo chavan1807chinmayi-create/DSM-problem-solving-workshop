@@ -1,9 +1,6 @@
- # math = 50
- # name = "chinmayi"
- # pi = 3.14
- # result = True
- # print(type(math))
- # print(type(name))
- # print(type(pi))
- # print(type((result)))
- # control and /
+s = "Python is a High Level Programming Language"
+print(s.lower())
+print(s.upper())
+print(s.title())
+print(s.capitalize())
+print(s.swapcase())
